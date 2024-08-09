@@ -20,7 +20,7 @@ We offer a diverse range of services, including but not limited to:
 
 - **Website**: [Wecreate](https://www.wecreate5m.com/)
 - **Tebex**: Coming Soon
-- **Discord**: [Join our Discord Community](https://discord.gg/Wecreate)
+- **Discord**: https://discord.gg/Wecreate
 
 ---
 
